@@ -1,0 +1,119 @@
+# [Learn Ruby The Hard Way][1]
+
+Welcome to Learn Ruby the hard way. This is a translation of "Learn Python The Hard Way" to teach total beginners Ruby. It's in the same style, and the content is nearly the same, but it will teach you Ruby. If you have problems email [help@learncodethehardway.org][2].
+
+*   [The Hard Way Is Easier][3]
+*   [Exercise 0: The Setup][4]
+*   [Exercise 1: A Good First Program][5]
+*   [Exercise 2: Comments And Pound Characters][6]
+*   [Exercise 3: Numbers And Math][7]
+*   [Exercise 4: Variables And Names][8]
+*   [Exercise 5: More Variables And Printing][9]
+*   [Exercise 6: Strings And Text][10]
+*   [Exercise 7: More Printing][11]
+*   [Exercise 8: Printing, Printing][12]
+*   [Exercise 9: Printing, Printing, Printing][13]
+*   [Exercise 10: What Was That?][14]
+*   [Exercise 11: Asking Questions][15]
+*   [Exercise 12: Libraries][16]
+*   [Exercise 13: Parameters, Unpacking, Variables][17]
+*   [Exercise 14: Prompting And Passing][18]
+*   [Exercise 15: Reading Files][19]
+*   [Exercise 16: Reading And Writing Files][20]
+*   [Exercise 17: More Files][21]
+*   [Exercise 18: Names, Variables, Code, Functions][22]
+*   [Exercise 19: Functions And Variables][23]
+*   [Exercise 20: Functions And Files][24]
+*   [Exercise 21: Functions Can Return Something][25]
+*   [Exercise 22: What Do You Know So Far?][26]
+*   [Exercise 23: Read Some Code][27]
+*   [Exercise 24: More Practice][28]
+*   [Exercise 25: Even More Practice][29]
+*   [Exercise 26: Congratulations, Take A Test!][30]
+*   [Exercise 27: Memorizing Logic][31]
+*   [Exercise 28: Boolean Practice][32]
+*   [Exercise 29: What If][33]
+*   [Exercise 30: Else And If][34]
+*   [Exercise 31: Making Decisions][35]
+*   [Exercise 32: Loops And Arrays][36]
+*   [Exercise 33: While Loops][37]
+*   [Exercise 34: Accessing Elements Of Arrays][38]
+*   [Exercise 35: Branches and Functions][39]
+*   [Exercise 36: Designing and Debugging][40]
+*   [Exercise 37: Symbol Review][41]
+*   [Exercise 38: Reading Code][42]
+*   [Exercise 39: Doing Things To Arrays][43]
+*   [Exercise 40: Dictionaries, Oh Lovely Dictionaries][44]
+*   [Exercise 41: Gothons From Planet Percal #25][45]
+*   [Exercise 42: Gothons Are Getting Classy][46]
+*   [Exercise 43: You Make A Game][47]
+*   [Exercise 44: Evaluating Your Game][48]
+*   [Exercise 45: Is-A, Has-A, Objects, and Classes][49]
+*   [Exercise 46: A Project Skeleton][50]
+*   [Exercise 47: Automated Testing][51]
+*   [Exercise 48: Advanced User Input][52]
+*   [Exercise 49: Making Sentences][53]
+*   [Exercise 50: Your First Website][54]
+*   [Exercise 51: Getting Input From A Browser][55]
+*   [Exercise 52: The Start Of Your Web Game][56]
+*   [Next Steps][57]
+*   [Advice From An Old Programmer][58]
+
+ [1]: http://ruby.learncodethehardway.org/book/#learn-ruby-the-hard-way "Permalink to this headline"
+ [2]: http://ruby.learncodethehardway.org/book/mailto:help%40learncodethehardway.org
+ [3]: http://ruby.learncodethehardway.org/book/intro.html
+ [4]: http://ruby.learncodethehardway.org/book/ex0.html
+ [5]: http://ruby.learncodethehardway.org/book/ex1.html
+ [6]: http://ruby.learncodethehardway.org/book/ex2.html
+ [7]: http://ruby.learncodethehardway.org/book/ex3.html
+ [8]: http://ruby.learncodethehardway.org/book/ex4.html
+ [9]: http://ruby.learncodethehardway.org/book/ex5.html
+ [10]: http://ruby.learncodethehardway.org/book/ex6.html
+ [11]: http://ruby.learncodethehardway.org/book/ex7.html
+ [12]: http://ruby.learncodethehardway.org/book/ex8.html
+ [13]: http://ruby.learncodethehardway.org/book/ex9.html
+ [14]: http://ruby.learncodethehardway.org/book/ex10.html
+ [15]: http://ruby.learncodethehardway.org/book/ex11.html
+ [16]: http://ruby.learncodethehardway.org/book/ex12.html
+ [17]: http://ruby.learncodethehardway.org/book/ex13.html
+ [18]: http://ruby.learncodethehardway.org/book/ex14.html
+ [19]: http://ruby.learncodethehardway.org/book/ex15.html
+ [20]: http://ruby.learncodethehardway.org/book/ex16.html
+ [21]: http://ruby.learncodethehardway.org/book/ex17.html
+ [22]: http://ruby.learncodethehardway.org/book/ex18.html
+ [23]: http://ruby.learncodethehardway.org/book/ex19.html
+ [24]: http://ruby.learncodethehardway.org/book/ex20.html
+ [25]: http://ruby.learncodethehardway.org/book/ex21.html
+ [26]: http://ruby.learncodethehardway.org/book/ex22.html
+ [27]: http://ruby.learncodethehardway.org/book/ex23.html
+ [28]: http://ruby.learncodethehardway.org/book/ex24.html
+ [29]: http://ruby.learncodethehardway.org/book/ex25.html
+ [30]: http://ruby.learncodethehardway.org/book/ex26.html
+ [31]: http://ruby.learncodethehardway.org/book/ex27.html
+ [32]: http://ruby.learncodethehardway.org/book/ex28.html
+ [33]: http://ruby.learncodethehardway.org/book/ex29.html
+ [34]: http://ruby.learncodethehardway.org/book/ex30.html
+ [35]: http://ruby.learncodethehardway.org/book/ex31.html
+ [36]: http://ruby.learncodethehardway.org/book/ex32.html
+ [37]: http://ruby.learncodethehardway.org/book/ex33.html
+ [38]: http://ruby.learncodethehardway.org/book/ex34.html
+ [39]: http://ruby.learncodethehardway.org/book/ex35.html
+ [40]: http://ruby.learncodethehardway.org/book/ex36.html
+ [41]: http://ruby.learncodethehardway.org/book/ex37.html
+ [42]: http://ruby.learncodethehardway.org/book/ex38.html
+ [43]: http://ruby.learncodethehardway.org/book/ex39.html
+ [44]: http://ruby.learncodethehardway.org/book/ex40.html
+ [45]: http://ruby.learncodethehardway.org/book/ex41.html
+ [46]: http://ruby.learncodethehardway.org/book/ex42.html
+ [47]: http://ruby.learncodethehardway.org/book/ex43.html
+ [48]: http://ruby.learncodethehardway.org/book/ex44.html
+ [49]: http://ruby.learncodethehardway.org/book/ex45.html
+ [50]: http://ruby.learncodethehardway.org/book/ex46.html
+ [51]: http://ruby.learncodethehardway.org/book/ex47.html
+ [52]: http://ruby.learncodethehardway.org/book/ex48.html
+ [53]: http://ruby.learncodethehardway.org/book/ex49.html
+ [54]: http://ruby.learncodethehardway.org/book/ex50.html
+ [55]: http://ruby.learncodethehardway.org/book/ex51.html
+ [56]: http://ruby.learncodethehardway.org/book/ex52.html
+ [57]: http://ruby.learncodethehardway.org/book/next.html
+ [58]: http://ruby.learncodethehardway.org/book/advice.html
